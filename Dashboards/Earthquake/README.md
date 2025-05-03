@@ -52,7 +52,7 @@ This Power BI dashboard includes:
 
 ## Files Included
 - `Earthquake.pbix` – Main Power BI dashboard file
-- `Mag6PlusEarthquakes_1900-2013.csv` - Dataset of Earthquake details
+- `Mag6PlusEarthquakes_1900-2013.xlsx` - Dataset of Earthquake details
 - `README.md` – Dashboard documentation
 
 ## Additional Notes
